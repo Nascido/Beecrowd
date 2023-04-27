@@ -11,6 +11,6 @@ Para cada caso de teste, imprima uma linha contendo o número de leds que João 
 
 ## Go to the webpage:
 
-[Click Here](https://www.beecrowd.com.br/judge/pt/problems/view/1168)
+### [Click Here](https://www.beecrowd.com.br/judge/pt/problems/view/1168)
 
 
