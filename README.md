@@ -14,7 +14,7 @@ These are some of my current beecrowd codes to train programming logic and some 
 - Type 8 : Geometry
 - Type 9 : SQL
 
-The levels are the diffuculty of these problems: 1 to 10.
+The levels are the difficulty of these problems: 1 to 10.
 
 ## Find me on Beecrowd!
 - Name: Nascido
