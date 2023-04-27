@@ -1,6 +1,6 @@
 # Beecrowd Coding Pratice
 
-These are some of my current beecrowd codes to train programming logic and some codding lenguage aspects.
+These are some of my current beecrowd codes to train programming logic and some codding language aspects.
 
 ## Types and Levels:
 
