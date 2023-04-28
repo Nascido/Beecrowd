@@ -20,8 +20,5 @@ for (i=1;i<=n;i++){
         ledSum += parseInt(ledsNumbers[1][posi]);
 
     }
-    console.log(ledSum + " leds")
+    console.log(ledSum + " leds");
 }
-
-
-
